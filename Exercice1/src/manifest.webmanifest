@@ -1,0 +1,18 @@
+{
+  "name": "app",
+  "short_name": "app",
+  "theme_color": "#ED382B",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+    
+  ]
+}
